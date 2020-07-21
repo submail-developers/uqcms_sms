@@ -15,3 +15,6 @@ How to use
 ![Submail](./markdown/2.png)
 ![Submail](./markdown/3.png)
 ![Submail](./markdown/4.png)
+
+
+[点击下载](https://github.com/submail-developers/uqcms_sms/archive/master.zip)
